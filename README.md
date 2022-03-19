@@ -1,3 +1,7 @@
+# WARNING: this information is obsolete
+- Please see https://llvm.org/docs/AMDGPUUsage.html for always up-to-date ABI information
+
+
 # ROCm - AMDGPU Compute Application Binary Interface
 
 
